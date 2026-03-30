@@ -13,8 +13,8 @@ Objectives:
 4. Design targeted retention strategies
 
 Exploratory Data Analysis (EDA):
-1. Customers inactive for >15 days → 93.4% churn rate
-2. Low interaction users (0–5 interactions) → 91.2% churn
+1. Customers inactive for >15 days: 93.4% churn rate
+2. Low interaction users (0–5 interactions): 91.2% churn
 3. Engagement is a stronger driver than revenue
 
 Models used:
